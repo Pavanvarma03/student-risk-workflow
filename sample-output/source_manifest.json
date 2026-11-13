@@ -1,0 +1,25 @@
+{
+  "generator": "student-risk-workflow 1.0.0",
+  "provenance": "Synthetic deterministic data only; no external or personal data.",
+  "seed": 20261022,
+  "students": 100,
+  "courses": 20,
+  "enrollments": 400,
+  "risk_cutoff_week": 12,
+  "counts": {
+    "students.csv": 100,
+    "courses.csv": 20,
+    "enrollments.csv": 400,
+    "assessments.csv": 80,
+    "attendance_events.csv": 14208,
+    "assessment_results.csv": 1577,
+    "lms_activities.csv": 15853,
+    "risk_assessments.csv": 400,
+    "support_cases.csv": 124,
+    "interventions.csv": 124,
+    "case_events.csv": 345,
+    "intervention_events.csv": 248,
+    "outcomes.csv": 400,
+    "ground_truth.csv": 400
+  }
+}

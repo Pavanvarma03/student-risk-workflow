@@ -1,0 +1,42 @@
+{
+  "generation_checks_passed": true,
+  "seed": 20261022,
+  "checks": {"student_course_enrollment_keys": "passed", "enrollment_parent_references": "passed", "enrollment_lifecycle_dates": "passed", "ground_truth_references": "passed", "one_to_one_table_counts": "passed"},
+  "counts": {
+    "students.csv": 100,
+    "courses.csv": 20,
+    "enrollments.csv": 400,
+    "assessments.csv": 80,
+    "attendance_events.csv": 14208,
+    "assessment_results.csv": 1577,
+    "lms_activities.csv": 15853,
+    "risk_assessments.csv": 400,
+    "support_cases.csv": 124,
+    "interventions.csv": 124,
+    "case_events.csv": 345,
+    "intervention_events.csv": 248,
+    "outcomes.csv": 400,
+    "ground_truth.csv": 400
+  },
+  "sha256": {
+    "assessment_results.csv": "8ae15d5dfbb6c4400be083f7d0198ad012287b545f58698251512b825c2177e1",
+    "assessments.csv": "82caa9a7dbb0587475bb0ed265a3a2428d517aaf89e7ac61a619cfc75dfb93aa",
+    "attendance_events.csv": "d62a24de13553d6456787ba3314b87ae8708ecede0d2b02c572d065f584e470a",
+    "case_events.csv": "56702c38e2e74f5c852370926b74f1542e8dc6663f9f0e0e29bd3a3f78dbdca3",
+    "courses.csv": "e6556d8d05f917d26ef8cc18e512aa8ab7364cc12a6b891071e9f518cbc61c3e",
+    "edge_cases.csv": "bf33e143c7aa24d0468b8cca8d31272ef7a5308a31ce4ee78b20ac4ad4ebf876",
+    "enrollments.csv": "deb102098979e373493980ec33e3d6880f4066686f80c189dab76c4eee2310e0",
+    "evaluation_metrics.json": "b9e8e99e5c966f7475d3cb203c632f477a8613d7cc0cc4b0c1fb24ca1cee09cb",
+    "ground_truth.csv": "e49e69372bb3876b9ec83fb2f3a6da6f7b01f6e8d8ff276b4cf685622bb578c6",
+    "ground_truth.json": "bba00e80c2801747d0c4570230c64e2f3571e3156f668798a03331596a9a163c",
+    "intervention_events.csv": "88aca252fe39652e2eea76accbc154504ea549b77b82416673ea9ec97d54e5fa",
+    "interventions.csv": "f2841d7ad109046569b2ef1213559811b301fbc0d837b412443eb2428ce93a97",
+    "lms_activities.csv": "1e274f00486a05914524bb0f6596d565551266afdb57fe982a99abd1dcfe2ab5",
+    "outcomes.csv": "593a355c0dc12710bf72221a1d51ba173f2737ac8ec487855f3f4379bf87989d",
+    "risk_assessments.csv": "f4c5c1bdefdc37a65ce7e9c4da4e532a14e47763b16436496df27c7e282d4db5",
+    "seed.sql": "265b71ceacd4871c9561e020a727f6c75a2e12628fb9acda7e4a88b58d277d24",
+    "source_manifest.json": "985c31c5888ac9979bf0928533e27f3d58cf2b7baa4a0a6593562a301687e828",
+    "students.csv": "1be0937309448b9e0a7ca4eb1923a0d4739adc6218e91c34b03cb4bce63fd034",
+    "support_cases.csv": "3e6959312f34456882e970a2d6dc8002546e956e7a225922ea09328547997ee0"
+  }
+}
